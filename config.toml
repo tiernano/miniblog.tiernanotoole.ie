@@ -2,3 +2,6 @@ baseURL = 'https://miniblog.tiernanotoole.ie/'
 languageCode = 'en-us'
 title = 'Tiernans Mini Blog'
 theme = 'beautifulhugo'
+enableGitInfo = true
+[Params]
+  commit = "https://github.com/tiernano/miniblog.tiernanotoole.ie/tree/"
