@@ -1,4 +1,4 @@
-baseURL = 'https://miniblog.tiernanotoole..ie/'
+baseURL = 'https://miniblog.tiernanotoole.ie/'
 languageCode = 'en-us'
 title = 'Tiernans Mini Blog'
 theme = 'beautifulhugo'
