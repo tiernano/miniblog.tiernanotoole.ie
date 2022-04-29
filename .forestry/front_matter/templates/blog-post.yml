@@ -8,5 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
+  default: now
 pages:
 - content/posts/testing-forestry.io.md
