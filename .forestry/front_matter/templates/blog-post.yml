@@ -10,4 +10,5 @@ fields:
   label: date
   default: now
 pages:
+- content/posts/blackmagic-raw-file-sizes.md
 - content/posts/testing-forestry.io.md
