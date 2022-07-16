@@ -11,4 +11,5 @@ fields:
   default: now
 pages:
 - content/posts/blackmagic-raw-file-sizes.md
+- content/posts/its-been-a-while.md
 - content/posts/testing-forestry.io.md
