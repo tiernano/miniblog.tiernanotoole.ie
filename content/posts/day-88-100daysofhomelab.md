@@ -1,5 +1,5 @@
 ---
-title: day 88 of #100daysofhomelab
+title: day 88 of 100daysofhomelab
 date: 2022-09-10T22:25:00+00:00
 ---
 
