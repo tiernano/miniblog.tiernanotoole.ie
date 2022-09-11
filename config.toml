@@ -1,7 +1,28 @@
 baseURL = 'https://miniblog.tiernanotoole.ie/'
-languageCode = 'en-us'
+languageCode = 'en-ie'
 title = 'Tiernans Mini Blog'
 theme = 'beautifulhugo'
 enableGitInfo = true
+#googleAnalytics = "XXX"
+
 [Params]
   commit = "https://github.com/tiernano/miniblog.tiernanotoole.ie/tree/"
+  readingTime = true
+  wordCount = true
+
+
+[Author]
+  name = "Tiernan OToole"
+  website = "https://o2l.ie"
+  email = "tiernan@o2l.ie"
+  github = "tiernano"
+  twitter = "tiernano"
+  #linkedin = "username"
+  
+  #stackoverflow = "users/XXXXXXX/username"
+  youtube = "tiernanotoole" # or channel/channelname
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
