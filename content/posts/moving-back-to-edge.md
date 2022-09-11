@@ -1,6 +1,6 @@
 ---
 title: Moving back to Edge
-date: 2022-09-11T12:14:00+00
+date: 2022-09-11T12:14:00+00:00
 ---
 
 After moving mostly full-time to use a Mac as my main machine (I still RDP/SSH into GodBoxV3 and other Windows or Linux boxes for some tasks), I originally started using Safari, since, well, that's what I (have to) use on my iPhone. It also has the nice feature of [Apple Pay](https://www.apple.com/ie/apple-pay/) built-in... But after a while, I started having issues with it, so I moved to [Firefox](https://www.mozilla.org/en-US/firefox/new/). 
