@@ -1,7 +1,0 @@
-{
-    "pasteImage.path": "${projectRoot}/static/images",
-    "pasteImage.basePath": "${projectRoot}/",
-    "pasteImage.forceUnixStyleSeparator": true,
-    "pasteImage.prefix": "/",
-    "pasteImage.insertPattern": "${imageSyntaxPrefix}https://miniblog.tiernanotoole.ie/images/${imageFileName}${imageSyntaxSuffix}"
-}
