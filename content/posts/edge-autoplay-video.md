@@ -1,6 +1,8 @@
 ---
 title: turning off Edge Autoplay Video
 date: 2022-09-12T19:55:00+00:00
+tags: ["edge", "tips_and_tricks", "browsers"]
+
 ---
 
 After moving to Edge from Firefox a few days back, i noticed all the stupid autoplay videos are back... After a bit of digging, there are a couple of steps to fix this:

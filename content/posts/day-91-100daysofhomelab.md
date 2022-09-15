@@ -1,6 +1,8 @@
 ---
 title: Day 91 of 100daysofhomelab
 date: 2022-09-13T18:16:00+00:00	
+tags: ["homelab", "100daysofhomelab"]
+
 ---
 
 day 91 of  [#100daysofhomelab](https://twitter.com/hashtag/100DaysOfHomeLab) and I am starting on my future plans for the Home Lab.

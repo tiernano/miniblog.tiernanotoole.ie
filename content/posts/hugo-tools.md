@@ -1,7 +1,8 @@
 ---
 title: "Hugo Tools"
 date: 2022-03-30T23:29:07+01:00
-draft: false
+tags: ["blogging", "tools"]
+
 ---
 Some quick links to some tools I am using for [Hugo](https://gohugo.io).
 

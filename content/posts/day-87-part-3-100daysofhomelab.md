@@ -1,6 +1,6 @@
 ---
 title: day 87 (attempt 3) of 100daysofhomelab
-
+tags: ["homelab", "100daysofhomelab"]
 date: 2022-09-09T22:33:00+01:00
 ---
 

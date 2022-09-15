@@ -2,6 +2,7 @@
 title: "testing image uploads"
 date: 2022-09-10T19:50:00+00:00
 draft: false
+tags: ["blogging", "tools"]
 
 ---
 

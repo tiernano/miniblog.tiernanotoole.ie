@@ -1,6 +1,7 @@
 ---
 title: Next iPhone Wishlist
 date: 2022-03-31T15:21:55.000+01:00
+tags: ["iPhone", "hardware"]
 
 ---
 I have been thinking recently about what I want to see in the next iPhone. I currently have a 12 Pro Max and I am due for an upgrade around December of this year, which means Apple will have released the 14 Pro Max at that stage. So, what do I want to see in it? This is just a random bloke with some ideas... I have no insider knowledge...

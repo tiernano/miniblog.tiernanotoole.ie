@@ -1,6 +1,7 @@
 ---
 title: the future of my homelab
 date: 2022-09-13T07:39:00+00:00
+tags: ["homelab", "100daysofhomelab"]
 ---
 
 So, we are coming up to the end of [#100daysofhomelab](https://twitter.com/hashtag/100DaysOfHomeLab), and I have been thinking of some future work for the home lab and what I would like to get done over the next 100 days (well, 109, since I'm on day 91). Below is a list of things going into my homelab backlog, in no particular order...

@@ -1,7 +1,8 @@
 ---
 title: "Going back in time"
 date: 2022-07-18T21:04:00+01:00
-draft: false
+tags: ["retro", "personal"]
+
 ---
 I just finished watching the LTT Video [Intel Predicted the future](https://www.youtube.com/watch?v=5-eFLcCDNo8) and had to laugh at some of the things in it. But it also brought me back in time, thinking of things we have now that we didn't have back then...
 

@@ -1,6 +1,8 @@
 ---
 date: 2022-07-16T01:08:11Z
 title: "Its been a while"
+tags: ["updates"]
+
 
 ---
 So, It's been a few months and I have been busy with random stuff... I started on the [#100daysofhomelab](https://100daysofhomelab.com) challenge and so far have broken a lot of different things. I [tweet about it](https://twitter.com/tiernano) every day so far on Twitter. 

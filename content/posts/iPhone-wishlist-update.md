@@ -1,6 +1,8 @@
 ---
 title: iPhone next wish list
 date: 2022-09-11T12:30:00+00:00	
+tags: ["iPhone", "hardware"]
+
 ---
 
 Back in March, I posted about [what I wanted to see in the next iPhone](https://miniblog.tiernanotoole.ie/posts/next-iphone-wishlist/). Well, on Wednesday 7th September, Apple announced the iPhone 14, 14 Max, 14 Pro and 14 Pro Max (along with new Apple Watches, but that's out of scope for this post). So, based on my wishlist, what did the Apple account release? Were they listening to me? Spoiler alert. Nope...

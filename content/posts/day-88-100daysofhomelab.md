@@ -1,6 +1,8 @@
 ---
 title: day 88 of 100daysofhomelab
 date: 2022-09-10T22:25:00+00:00
+tags: ["homelab", "100daysofhomelab"]
+
 ---
 
 This is an extension to my main [#100daysofhomelab](https://twitter.com/hashtag/100DaysOfHomeLab) tweet for day 88. 

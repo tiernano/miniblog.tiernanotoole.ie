@@ -1,6 +1,8 @@
 ---
 title: Day 90 of 100DaysOfHomeLab
 date: 2022-09-12T18:50:00+00:00
+tags: ["homelab", "100daysofhomelab"]
+
 ---
 
 Day 90 of [#100daysofhomelab](https://twitter.com/hashtag/100DaysOfHomeLab) (nearly finished!) and I have done a couple of bits and pieces:

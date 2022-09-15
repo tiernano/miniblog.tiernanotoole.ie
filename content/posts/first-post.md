@@ -1,7 +1,8 @@
 ---
 title: "Initial Post"
 date: 2022-03-30T23:00:46+01:00
-draft: false
+tags: ["updates"]
+
 ---
 
 I have been trying to write quick notes about what's going on in a journal, but 1: I can't read my handwriting, and 2: It becomes painful to write too much... I do plan on still writing stuff in a journal since I kind of want my handwriting to get better... it's been a LOT of years since I have had to write anything of any length on paper, but this makes things a little easier for writing quick stuff.
