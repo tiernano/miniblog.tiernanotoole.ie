@@ -1,9 +1,9 @@
 ---
-title: Day 95 of 100DaysOfHomeLab
+title: Day 94 of 100DaysOfHomeLab
 date: 2022-09-16T21:50:00+00:00
 tags: ["homelab", "100daysofhomelab"]
 ---
-Day 95 of 100DaysOfHomeLab and I have been playing with OSPF, GRE Tunnels, Mikrotik, Bird and ECMP.
+Day 94 of 100DaysOfHomeLab and I have been playing with OSPF, GRE Tunnels, Mikrotik, Bird and ECMP.
 
 * I got 2 [GRE](https://en.wikipedia.org/wiki/Generic_Routing_Encapsulation) tunnels setup between the MikroTik box and my DEC-IX box (Debian running Bird).
 * [OSPF](https://en.wikipedia.org/wiki/Open_Shortest_Path_First) running and announcing stuff over those 2 links, plus the original Wireguard Link.
