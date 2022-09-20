@@ -3,5 +3,11 @@
     "pasteImage.basePath": "${projectRoot}/",
     "pasteImage.forceUnixStyleSeparator": true,
     "pasteImage.prefix": "/",
-    "pasteImage.insertPattern": "${imageSyntaxPrefix}https://miniblog.tiernanotoole.ie/images/${imageFileName}${imageSyntaxSuffix}"
+    "pasteImage.insertPattern": "${imageSyntaxPrefix}https://miniblog.tiernanotoole.ie/images/${imageFileName}${imageSyntaxSuffix}",
+    "cSpell.words": [
+        "Cloudinary",
+        "daysofhomelab",
+        "homelab",
+        "wesbos"
+    ]
 }
