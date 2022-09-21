@@ -3,7 +3,7 @@ title: Day 99 of 100daysofhomelab
 date: 2022-09-21T19:10:00+00:00
 tags: ["homelab", "100daysofhomelab"]
 ---
-Day 99 of #100daysofhomelab... and i'm still trying to get Azure AD Sync working...
+Day 99 of #100daysofhomelab... and i'm still trying to get Azure AD Sync working... But i did get comments on my blog!
 
 * I have an on-prem AD which is brand new, and an Azure AD which has been in production since 2012... I have an on prem user and a main Azure AD user, but getting them to sync is not working... Ugh... I keep getting an `AttributeValueMustBeUnique` Error... I also seem to be getting `permission-issue` errors... I AM THE ADMINISTRATOR! WTF?!
 * [Microsoft now have Systemd support in WSL](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/).
