@@ -1,5 +1,5 @@
 ---
-title: Day 101 of 100daysofhomelab
+title: Day 102 of 100daysofhomelab
 date: 2022-09-23T23:00:00+00:00
 tags: ["homelab", "100daysofhomelab"]
 ---
