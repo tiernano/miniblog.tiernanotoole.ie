@@ -32,4 +32,4 @@ So, its been a busy few months! I am going to continue using the [miniblog](http
 
 In the words of Vinny Jones:
 
-![](https://images.tiernanotoole.ie/image/upload/v1663878352/miniblog/its-been-emotional-walk-away.gif)
+{{< cloudinary "miniblog/its-been-emotional-walk-away.gif" "400">}}

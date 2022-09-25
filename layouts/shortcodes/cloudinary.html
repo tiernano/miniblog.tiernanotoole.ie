@@ -1,0 +1,6 @@
+
+    {{ $image := .Get 0 }}
+    {{ $width := .Get 1 | default "600" }}
+    {{ $alt := .Get 2 }}
+
+    <img src="{{ .Site.Params.cloudinary_url }}/f_auto,q_70,w_{{ $width }}/{{ $image }}" alt="{{ $alt }}"/>

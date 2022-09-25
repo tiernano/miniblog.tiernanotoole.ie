@@ -10,4 +10,4 @@ Day 98 of #100daysofhomelab and ive been working on Cloudflare Workers stuff and
 * looks like my Azure AD Sync failed at some stage, so digging though that to fix it.
 * Also, seems something on the network is acting up... I think this might be appropriate...
 
-![it was DNS](https://images.tiernanotoole.ie/w_200,c_scale,f_auto,q_auto,dpr_auto/miniblog/download.jpg)
+{{< cloudinary "miniblog/download.jpg" "200" "it was dns" >}}

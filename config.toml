@@ -5,10 +5,12 @@ theme = 'beautifulhugo'
 enableGitInfo = true
 #googleAnalytics = "XXX"
 
+
 [Params]
   commit = "https://github.com/tiernano/miniblog.tiernanotoole.ie/tree/"
   readingTime = true
   wordCount = true
+  cloudinary_url = "https://images.tiernanotoole.ie"
 
 
 [Author]
