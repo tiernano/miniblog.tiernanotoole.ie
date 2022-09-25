@@ -11,7 +11,7 @@ enableGitInfo = true
   readingTime = true
   wordCount = true
   cloudinary_url = "https://images.tiernanotoole.ie"
-
+  selfHosted = true
 
 [Author]
   name = "Tiernan OToole"
