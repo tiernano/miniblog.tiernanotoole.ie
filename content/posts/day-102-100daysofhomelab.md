@@ -1,6 +1,6 @@
 ---
 title: Day 102 of 100daysofhomelab
-date: 2022-09-23T23:00:00+00:00
+date: 2022-09-24T23:00:00+00:00
 tags: ["homelab", "100daysofhomelab"]
 ---
 Day 102 of #100daysofhomelab and still fighting with my Cloudflare Workers stuff.
