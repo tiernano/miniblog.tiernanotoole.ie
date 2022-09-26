@@ -12,5 +12,6 @@
         "Plex",
         "utteranc",
         "wesbos"
-    ]
+    ],
+    "insertDateString.format": "YYYY-MM-DDThh:mm:ssZZZ"
 }
