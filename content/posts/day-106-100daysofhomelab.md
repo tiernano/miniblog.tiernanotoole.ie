@@ -3,7 +3,7 @@ title: Day 106 of 100daysofhomelab
 date: 2022-09-28T20:25:44+01:00
 tags: ["homelab", "100daysofhomelab"]
 ---
-Day 105 of #100daysofhomelab and I am still trying to get my [VMHaus](https://www.vmhaus.com/) Box running Bird 2.0. Its running, just not configured right. And some news updates too.
+Day 106 of #100daysofhomelab and I am still trying to get my [VMHaus](https://www.vmhaus.com/) Box running Bird 2.0. Its running, just not configured right. And some news updates too.
 
 * managed to get [Bird 2.0](https://bird.network.cz/) and [Mikrotik](https://mikrotik.com/) talking to each other, but the Mikrotik is announcing only V4 routes to Bird. No V6. And Bird is not announcing ANYTHING to mikrotik... 
 * upgraded all my Ubuntu and Debian boxes. Need to automate that with [Ansible](https://www.ansible.com/) at some stage... 
