@@ -6,6 +6,7 @@
     "pasteImage.insertPattern": "${imageSyntaxPrefix}https://miniblog.tiernanotoole.ie/images/${imageFileName}${imageSyntaxSuffix}",
     "cSpell.words": [
         "Cloudinary",
+        "Cloudshed",
         "daysofhomelab",
         "homelab",
         "Mikrotik",
