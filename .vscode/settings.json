@@ -12,7 +12,9 @@
         "Mikrotik",
         "Plex",
         "utteranc",
-        "wesbos"
+        "wesbos",
+        "VMHaus",
+        "Zerotier"
     ],
     "insertDateString.format": "YYYY-MM-DDThh:mm:ssZZZ"
 }
