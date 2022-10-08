@@ -1,9 +1,9 @@
 ---
-title: Day 116 of 100daysofhomelab
+title: Day 115 of 100daysofhomelab
 date: 2022-10-08T00:07:40+01:00
 tags: ['homelab','100daysofhomelab']
 ---
-Day 116 of #100daysofhomelab, and this is the first real day in the since day 109... Been out of commission due to a cold and back issues... tonight's post is brought to you by Jameson Whiskey, some honey and hot water...
+Day 115 of #100daysofhomelab (Updated...), and this is the first real day in the since day 109... Been out of commission due to a cold and back issues... tonight's post is brought to you by Jameson Whiskey, some honey and hot water...
 
  Some updates:
 
