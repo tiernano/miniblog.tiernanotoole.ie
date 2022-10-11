@@ -5,6 +5,7 @@
     "pasteImage.prefix": "/",
     "pasteImage.insertPattern": "${imageSyntaxPrefix}https://miniblog.tiernanotoole.ie/images/${imageFileName}${imageSyntaxSuffix}",
     "cSpell.words": [
+        "Celeron",
         "Cloudinary",
         "Cloudshed",
         "daysofhomelab",
@@ -12,8 +13,9 @@
         "Mikrotik",
         "Plex",
         "utteranc",
-        "wesbos",
         "VMHaus",
+        "wesbos",
+        "Xeon",
         "Zerotier"
     ],
     "insertDateString.format": "YYYY-MM-DDThh:mm:ssZZZ"
