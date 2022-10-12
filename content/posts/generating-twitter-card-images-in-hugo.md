@@ -1,5 +1,5 @@
 ---
-title: Generating Titter Card Images in Hugo
+title: Generating Twitter Card Images in Hugo
 date: 2022-10-13T00:38:53+01:00
 tags: ['blogging', hugo']
 ---
