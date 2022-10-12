@@ -2,6 +2,8 @@
 title: Day 120 of 100daysofhomelab
 date: 2022-10-12T21:07:45+01:00
 tags: ['100daysofhomelab','homelab']
+categories: ['post']
+author: '@tiernano'
 ---
 Day 120 of #100daysofhomelab and I *nearly* got Bird 2.0 working... Then it failed...
 

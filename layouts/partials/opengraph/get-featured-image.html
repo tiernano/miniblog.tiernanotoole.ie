@@ -1,0 +1,10 @@
+{{ $img := resources.Get "/opengraph/blog-template.png"}}
+{{ $img = $img.Filter (images.Text $.LinkTitle (dict
+    "color" "#000000"
+    "size" 45
+    "linespacing" 2
+    "x" 110
+    "y" 110
+))}}
+
+{{ return $img }}
