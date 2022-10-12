@@ -4,7 +4,7 @@ title = 'Tiernans Mini Blog'
 theme = 'beautifulhugo'
 enableGitInfo = true
 #googleAnalytics = "XXX"
-
+ 
 
 [Params]
   commit = "https://github.com/tiernano/miniblog.tiernanotoole.ie/tree/"
@@ -12,6 +12,11 @@ enableGitInfo = true
   wordCount = true
   cloudinary_url = "https://images.tiernanotoole.ie"
   selfHosted = true
+  share_img = "https://images.tiernanotoole.ie/image/upload/w_200,ar_1:1,c_fill,g_auto,e_art:hokusai,f_auto,q_auto,dpr_auto//v1665612541/miniblog/IMG_1573.heic"
+  image =  "https://images.tiernanotoole.ie/image/upload/w_200,ar_1:1,c_fill,g_auto,e_art:hokusai,f_auto,q_auto,dpr_auto//v1665612541/miniblog/IMG_1573.heic"
+  logo =  "https://images.tiernanotoole.ie/image/upload/w_200,ar_1:1,c_fill,g_auto,e_art:hokusai,f_auto,q_auto,dpr_auto//v1665612541/miniblog/IMG_1573.heic"
+ 
+
 
 [Author]
   name = "Tiernan OToole"
