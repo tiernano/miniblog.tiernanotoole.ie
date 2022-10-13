@@ -1,7 +1,6 @@
 ---
 title: "Day 121 100daysofhomelab"
 date: 2022-10-13T20:36:27+01:00
-draft: true
 tags: ['homelab','100daysofhomelab']
 ---
 Day 121 of #100daysofhomelab:
