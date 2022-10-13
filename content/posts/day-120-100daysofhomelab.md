@@ -8,14 +8,15 @@ author: '@tiernano'
 Day 120 of #100daysofhomelab and I *nearly* got Bird 2.0 working... Then it failed...
 
 I am not 100% sure what I am doing wrong here, but essentially, on old Bird 1.6, you could create static routes like:
-
+{{< highlight yaml "linenos=table" >}}
     protocol static {
         #send traffic to own server external IPs direct to gateway peer.
         route x.x.x.x/32 via y.y.y.y;
     }
+{{< / highlight >}}
 
 This would then have a static route set for that /32 going though that IP. The reason is because i would have something like as follows:
-
+{{< highlight yaml "linenos=table,hl_lines=4 6 10-13 17-20" >}}
     protocol kernel {
         scan time 90;
         import all;
@@ -29,7 +30,9 @@ This would then have a static route set for that /32 going though that IP. The r
                         {
                                 accept; # Internal Routes
                         }
+
                         else
+
                         {
                                 krt_prefsrc = OWNSRC;
                                 accept;
@@ -40,7 +43,7 @@ This would then have a static route set for that /32 going though that IP. The r
                 accept;
         };   # Actually insert routes into the kernel routing table
     }
-
+{{< / highlight >}}
 essentially, that would first, setup ECMP for routes that have multiple same length hops. Then, it starts doing exporting of routes to the kernel. The line for static and device routes exports them to the kernel, but does not change their preferred source (more on that in a sec). Internal routes does the same. everything else is set to use `OWNSRC` (an IP from my /24) as the source of that, so any traffic to that comes from that IP.
 
 Problem is, that doesn't seem to work on Bird 2... or I have screwed up something somewhere... More digging required...

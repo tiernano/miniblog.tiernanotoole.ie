@@ -17,7 +17,9 @@
         "VMHaus",
         "wesbos",
         "Xeon",
-        "Zerotier"
+        "Zerotier",
+        "Blacknight",
+        "opengraph"
     ],
     "insertDateString.format": "YYYY-MM-DDThh:mm:ssZZZ"
 }

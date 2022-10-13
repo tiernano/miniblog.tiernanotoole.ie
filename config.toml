@@ -4,7 +4,8 @@ title = 'Tiernans Mini Blog'
 theme = 'beautifulhugo'
 enableGitInfo = true
 #googleAnalytics = "XXX"
- 
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [Params]
   commit = "https://github.com/tiernano/miniblog.tiernanotoole.ie/tree/"
