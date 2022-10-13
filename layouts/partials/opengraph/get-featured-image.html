@@ -1,10 +1,26 @@
 {{ $img := resources.Get "/opengraph/blog-template.png"}}
-{{ $img = $img.Filter (images.Text $.LinkTitle (dict
-    "color" "#000000"
-    "size" 45
-    "linespacing" 2
-    "x" 110
-    "y" 110
-))}}
+{{ $img = $img.Filter 
+        (
+            images.Text $.LinkTitle (dict
+                "color" "#000000"
+                "size" 35
+                "linespacing" 2
+                "x" 110
+                "y" 110
+                "font" (resources.Get "/opengraph/mulish-black.ttf")
+            )
+        )}}
+{{ $img = $img.Filter
+    (
+        images.Text $.Permalink (dict
+                "color" "#4933FF"
+                "size" 20
+                "linespacing" 2
+                "x" 110
+                "y" 300
+                "font" (resources.Get "/opengraph/mulish-black.ttf")
+            )
+    )
+}}
 
 {{ return $img }}
