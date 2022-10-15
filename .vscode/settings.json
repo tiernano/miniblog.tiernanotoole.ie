@@ -19,7 +19,8 @@
         "Xeon",
         "Zerotier",
         "Blacknight",
-        "opengraph"
+        "opengraph",
+        "Vultr"
     ],
     "insertDateString.format": "YYYY-MM-DDThh:mm:ssZZZ"
 }
