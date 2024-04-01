@@ -3,7 +3,7 @@ title: Proxmox auth with Azure AD
 Date: 2022-09-17T23:00:00+00:00
 tags: ["homelab", "100daysofhomelab", "Tutorials"]
 ---
-I use [Office365](https://geni.us/iRLLz) for email and other bits and pieces, and I have Azure AD included. While digging around the [Proxmox](https://proxmox.com/en/) interface, I found the option of authenticating Proxmox with Azure AD. So, how do you do it? 
+I use [Office365](https://geni.us/iRLLz) for email and other bits and pieces, and I have Azure AD included. While digging around the [Proxmox](https://proxmox.com/en/) interface, I found the option of authenticating Proxmox with Azure AD. So, how do you do it?
 
 First, go to [portal.azure.com](https://portal.azure.com) and login. To the Azure AD section and, assuming you have an Azure AD setup, select App Registration in the side bar and select New Registration.
 

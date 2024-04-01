@@ -8,4 +8,4 @@ I run Windows Server 2022 as my main OS on GodBoxV3, my workstation. When you tr
 
 `Install-WindowsFeature wireless-networking`
 
-Reboot the machine and Cloudflare Warp should now start. 
+Reboot the machine and Cloudflare Warp should now start.

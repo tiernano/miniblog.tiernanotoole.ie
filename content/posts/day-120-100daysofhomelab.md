@@ -25,7 +25,7 @@ This would then have a static route set for that /32 going though that IP. The r
                 if (source = RTS_STATIC || source = RTS_DEVICE) then accept; #static and device routes
                 if (source = RTS_BGP) then {
                         # Export some routes to the kernel routing table
-                        
+
                         if (bgp_path.len = 0) then
                         {
                                 accept; # Internal Routes

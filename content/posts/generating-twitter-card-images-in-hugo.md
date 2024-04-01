@@ -4,11 +4,9 @@ date: 2022-10-13T00:38:53+01:00
 tags: ['blogging', hugo']
 ---
 
-So, I should have really gone to bed a couple hours ago, but instead I spent WAY TOO MUCH time figuring out how to get [Hugo](https://gohugo.io/) to generate a [Twitter Card image](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/summary-card-with-large-image), like below: 
-
+So, I should have really gone to bed a couple hours ago, but instead I spent WAY TOO MUCH time figuring out how to get [Hugo](https://gohugo.io/) to generate a [Twitter Card image](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/summary-card-with-large-image), like below:
 
 {{< cloudinary "miniblog/blog-template_huf0c96828ae6a79ec8545d754b6353946_304030_filter_12397976358228456183.png" "400" >}}
-
 
 Long story boring, the code is in my [miniblog repo](https://github.com/tiernano/miniblog.tiernanotoole.ie), but some important bits.
 

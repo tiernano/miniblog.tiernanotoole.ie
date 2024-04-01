@@ -10,7 +10,7 @@ First, go to [edge://flags](edge://flags). Search for **Show block option in aut
 
 {{< cloudinary "miniblog/image-20220912205725302.png" "400">}}
 
-Restart your browser and now to go [edge://settings/content/mediaAutoplay](edge://settings/content/mediaAutoplay) 
+Restart your browser and now to go [edge://settings/content/mediaAutoplay](edge://settings/content/mediaAutoplay)
 
 Select Block. This will block all Autoplaying Video on all sites. If you want to enable a particular site, you can add it to the allow list.
 

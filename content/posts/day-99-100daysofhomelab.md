@@ -9,6 +9,6 @@ Day 99 of #100daysofhomelab... and i'm still trying to get Azure AD Sync working
 * [Microsoft now have Systemd support in WSL](https://devblogs.microsoft.com/commandline/systemd-support-is-now-available-in-wsl/).
 * Plex Pro week, 2022 started a few days ago with [a video from Linus Tech Tips](https://www.plex.tv/blog/pro-week-day-1-linus/). Some other interesting articles on [their blog here](https://www.plex.tv/blog/).
 * I am still battling with my Cloudflare Workers Rewrite thing, but I am thinking of moving from [Wordpress](http://wordpress.org/) back to [Hugo](https://gohugo.io/). I can then add the photo work as part of the Hugo build...
-* Finally, I added comments using [utteranc.es](https://utteranc.es/) to this site. You need a [Github](https://github.com) account to comment, but try it out! 
+* Finally, I added comments using [utteranc.es](https://utteranc.es/) to this site. You need a [Github](https://github.com) account to comment, but try it out!
 
-Tomorrow is day 100 of #100daysofhomelab, and I am planning a retrospective of what I have done over the last 100 days! 
+Tomorrow is day 100 of #100daysofhomelab, and I am planning a retrospective of what I have done over the last 100 days!

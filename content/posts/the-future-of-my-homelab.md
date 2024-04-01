@@ -11,12 +11,12 @@ So, we are coming up to the end of [#100daysofhomelab](https://twitter.com/hasht
 * Expose more internal services over Cloudflare Access
 * InTune manage any laptops I have
 * Setup new Wifi and VPN with RADIUS auth using AD
-* Move servers into the Cloudshed. 
+* Move servers into the Cloudshed.
 * Get GodBoxV3 running ProxMox.
-* Migrate GodBoxV1 to ProxMox. 
+* Migrate GodBoxV1 to ProxMox.
 * Build a new storage box. (16x8Tb Spinning Rust + 8x960Gb SSDs + 4X10Gb NICs)
 * QNAP box to be used for Video Editing stuff (it has 5x8Tb spinny drives + 4x960Gb SSDs)
 * Synology box to be used for Backups and other bulk stuff (8x8Tb spinny drives)
-* new storage box to be used for Media and other stuff. 
+* new storage box to be used for Media and other stuff.
 
-This should be enough to start with for a while. 
+This should be enough to start with for a while.
