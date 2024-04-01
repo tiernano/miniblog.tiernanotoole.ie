@@ -1,5 +1,5 @@
 ---
-date: 2024-04-01T20:29:00Z
+date: 2024-04-01T19:45:00Z
 title: "Building and Deploying Hugo Apps using GitHub Actions to Cloudflare Pages"
 tags: ["tutorial"]
 
