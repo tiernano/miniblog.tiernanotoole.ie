@@ -1,0 +1,57 @@
+name: Deploy Hugo Site with Cloudflare Pages
+on:
+  push:
+    branches:
+      - main # GitHub repository branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+      statuses: write
+    steps:
+      - name: Checkout repository and update Hugo themes
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+
+      - uses: actions/cache@v3
+        with:
+          path: '.jampack'
+          key: jampack-${{ github.run_id }}
+          restore-keys: |
+            jampack
+
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      # - uses: actions/setup-node@v4
+      #   with:
+      #     node-version: '20'
+      #     cache: 'npm'
+      #     # The action defaults to search for the dependency file (package-lock.json,
+      #     # npm-shrinkwrap.json or yarn.lock) in the repository root, and uses its
+      #     # hash as a part of the cache key.
+      #     # https://github.com/actions/setup-node/blob/main/docs/advanced-usage.md#caching-packages-data
+      #     cache-dependency-path: '**/package-lock.json'
+
+      # - run: npm ci
+      - run: hugo --minify
+      - run: npm install -D @divriots/jampack
+      - run: npx @divriots/jampack public
+
+      - name: Publish
+        uses: cloudflare/pages-action@1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: miniblog-tiernanotoole-ie
+          branch: main # Cloudflare Pages production branch
+          directory: public
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
