@@ -52,6 +52,6 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: miniblog-tiernanotoole-ie
-          branch: main # Cloudflare Pages production branch
+          branch: master # Cloudflare Pages production branch
           directory: public
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
