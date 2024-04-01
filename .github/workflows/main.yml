@@ -2,7 +2,7 @@ name: Deploy Hugo Site with Cloudflare Pages
 on:
   push:
     branches:
-      - main # GitHub repository branch
+      - master # GitHub repository branch
 
 jobs:
   build:
