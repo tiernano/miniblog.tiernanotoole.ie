@@ -1,6 +1,6 @@
 ---
 title: Day 108 of 100daysofhomelab
-tags: ["100daysofhomelab", homelab"]
+tags: ["100daysofhomelab", "homelab"]
 date: 2022-09-30T19:46:57+01:00
 ---
 Day 108 of #100daysofhomelab and, its a mix of news and updates.
